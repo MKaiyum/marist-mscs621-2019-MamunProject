@@ -146,18 +146,24 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 
 
 
-# Leantime repository
+# Sources
 
-Official Github Repository of Leantime:
+  - Leantime (2019). Retrieved from https://leantime.io
+  
+  - Docker (2019). Retrieved from https://docs.docker.com
 
-https://github.com/Leantime/leantime
+
+## Repositories
+
+  Official Github Repository of Leantime:
+
+  - https://github.com/Leantime/leantime
 
 
 # License
 
   GNU GENERAL PUBLIC LICENSE
   Full license text is available in [LICENSE](LICENSE).
-
 
 
 
