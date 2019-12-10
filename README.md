@@ -33,7 +33,10 @@ It povides a very intuitive user interface, that helps users with different kind
 
 # Deployment (IBM)
 
-  See the demo at: http://leantimeapp.ddns.net
+  See the demo at: http://leantimeapp.ddns.net 
+  Username: admin@example.com
+  Password: 321.qwerty
+
 
 - In the Dashboard select the option, “Create Resource”
 
@@ -67,6 +70,8 @@ It povides a very intuitive user interface, that helps users with different kind
 # External Deployment (AWS)
 
 See the deployment at: http://leantimeapp-aws.ddns.net/
+Username: admin@example.com
+Password: 321.qwerty
 
 - Head over to the EC2 Dashboard and click on the "Launch Instance" Button.
 
